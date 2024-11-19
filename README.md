@@ -74,19 +74,6 @@ Many thanks to [Radek Osmulski](https://www.kaggle.com/datasets/radek1/additiona
 
 Also, we use Qwen API to generate more data.
 
-## 3. Methodology
 
-### 3.1 BERT
-
-### 3.2 RAG
-
-## 4. Experiment
-
-### 4.1 Experiment set 
-
-### 4.2 Experiment result
-
-## 5. Conclusion
-
-## 6. Reference
+## 3. Reference
 [[1]Will Lifferth, Walter Reade, and Addison Howard. Kaggle - LLM Science Exam. https://kaggle.com/competitions/kaggle-llm-science-exam, 2023. Kaggle.](www.kaggle.com/competitions/kaggle-llm-science-exam/overview/$citation)
